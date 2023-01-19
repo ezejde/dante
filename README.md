@@ -4,4 +4,4 @@ thank you for visiting the vsa bot aka dante source code. just to make sure you'
 
 nothing super personal, just so we can verify your identity and we'll give you access to the branch. 
 
-you can see the form here: https://ezekiel.deblois.me/dante-form.html/
+you can see the form here: https://ezekiel.deblois.me/dante-form.html
