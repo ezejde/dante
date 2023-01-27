@@ -1,7 +1,5 @@
 # dante
 
-thank you for visiting the vsa bot aka dante source code. just to make sure you're a real human and you won't abuse the code, we've put it on a private branch. you can access this branch if you fill in a quick form that one of our technicians made, just by putting in your name and email.
-
-nothing super personal, just so we can verify your identity and we'll give you access to the branch. 
+if you'd like to be able to control the bot, you can do so, however, i need to make the code detect when you specifically post, so I need to know your name (nothing else) in order for it to work. all you need to do is click the link below and enter your first and last name (capitalization matters) and click submit, and the code for dante will be automatically revised so that you can control it. 
 
 you can see the form here: https://ezekiel.deblois.me/dante-form.html
